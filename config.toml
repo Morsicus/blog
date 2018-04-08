@@ -1,0 +1,9 @@
+baseURL = "https://morsicus.github.io/blog/"
+languageCode = "en-us"
+title = "Morsicus' Home"
+theme = "hyde"
+publishDir = "docs"
+
+[params]
+    author = "Mickaël Fortunato"
+    description = "Writing about Tech"
